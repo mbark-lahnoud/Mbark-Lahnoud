@@ -12,7 +12,7 @@
 ## 🧠 About Me
 - 🎓 Digital Development Student
 - 💡 HTML, CSS, JavaScript, PHP, Python, MySQL
-- 💻 Future Full-Stack Developer
+- 💻 Future Developer
 - ⚡ Code. Learn. Build. Repeat.
 - 🎯 Focused on becoming better every day
 - 🤲 Step by step, InshaAllah 🤍  
