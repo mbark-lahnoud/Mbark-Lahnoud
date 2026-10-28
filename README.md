@@ -22,6 +22,15 @@
 
 ## 🚀 Projects
 
+### 🧩💙 Dart CrossWords Game
+> 🎮 An interactive crossword game to practice Dart programming.
+
+<p align="center">
+  <a href="https://mbark-lahnoud.github.io/Dart_CrossWords_Game/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart%20CrossWords%20Game-PLAY%20NOW-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+</p>
+
 ### 🃏🧠 DEV102 Memory Game
 > 🎮 A fun card matching game with desktop & online versions  
 
